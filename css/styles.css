@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #2D4059;
+    margin: 10px 10px;
+
+}
+.row{
+    padding: 0 147px;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 30px;
+}
+h1{
+    font-size: 5rem;
+    font-family: cursive;
+    color: #FFD460;
+    margin: 0;
+    
+}
